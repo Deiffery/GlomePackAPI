@@ -1,0 +1,4 @@
+version:201
+ID:https://www.curseforge.com/minecraft/texture-packs/glome-pack
+type:CURSEFORGE
+content:ZIP
